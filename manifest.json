@@ -1,0 +1,16 @@
+{
+  "short_name": "Story Weaver",
+  "name": "Story Weaver AI",
+  "description": "An interactive storytelling app for kids that generates unique illustrations and reads stories aloud using AI.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fffbeb",
+  "background_color": "#fffbeb"
+}
